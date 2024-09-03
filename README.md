@@ -37,3 +37,9 @@ The implementation of **`EyeTrackPy`** involves several key steps:
   - **Matplotlib (Optional):** Can be used for visualizing the results, such as plotting the gaze direction over time.
 
 This setup ensures that **`EyeTrackPy`** is both powerful and flexible, capable of handling complex eye-tracking tasks in a wide range of environments.
+# Screenshots
+
+![Screenshot (227)](https://github.com/user-attachments/assets/c4d55d94-fb96-4ede-a821-9483ecde1139)
+![Screenshot (228)](https://github.com/user-attachments/assets/a9ad3301-83c4-4ec0-9d50-2f99a4b44b9e)
+![Screenshot (229)](https://github.com/user-attachments/assets/5f01![Screenshot (230)](https://github.com/user-attachments/assets/7cdefe2d-f8d9-4718-acd2-017beea83a91)
+7d81-e624-4418-8443-e4bcc8c8a9d6)
