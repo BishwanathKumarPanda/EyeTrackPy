@@ -41,5 +41,5 @@ This setup ensures that **`EyeTrackPy`** is both powerful and flexible, capable 
 
 ![Screenshot (227)](https://github.com/user-attachments/assets/c4d55d94-fb96-4ede-a821-9483ecde1139)
 ![Screenshot (228)](https://github.com/user-attachments/assets/a9ad3301-83c4-4ec0-9d50-2f99a4b44b9e)
-![Screenshot (229)](https://github.com/user-attachments/assets/5f01![Screenshot (230)](https://github.com/user-attachments/assets/7cdefe2d-f8d9-4718-acd2-017beea83a91)
-7d81-e624-4418-8443-e4bcc8c8a9d6)
+![Screenshot (229)](https://github.com/user-attachments/assets/5f01![Screenshot (230)](https://github.com/user-
+![Screenshot (230)](https://github.com/user-attachments/assets/0376fda1-5cd3-447b-ae44-4fc0717268bf)
